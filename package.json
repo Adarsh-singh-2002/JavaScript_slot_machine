@@ -1,0 +1,22 @@
+{
+  "name": "javascript_slot_machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh-singh-2002/JavaScript_slot_machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adarsh-singh-2002/JavaScript_slot_machine/issues"
+  },
+  "homepage": "https://github.com/Adarsh-singh-2002/JavaScript_slot_machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
