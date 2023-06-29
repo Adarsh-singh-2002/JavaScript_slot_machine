@@ -3,6 +3,7 @@
 basics Javascript project 
 
 >npm init
+
 >npm i prompt-sync
 
 
