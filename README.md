@@ -6,12 +6,12 @@ basics Javascript project
 
 >npm i prompt-sync
 
-![b62f7f17c2796037f21e3a40f21d4d03](https://github.com/Adarsh-singh-2002/JavaScript_slot_machine/assets/98600091/a1478860-8f08-4ebf-a89c-d86d37a47ab4)
+![915403756](https://github.com/Adarsh-singh-2002/JavaScript_slot_machine/assets/98600091/be2fbf28-7139-4894-a9c1-e0daa0995a4f)
+
 
 1. Despot some money
 2. Determine number of lines to bet on
 3. Collect a bet amount
-
 4. Spin the slot machine
 5. check if the user won
 6. give the user their winnings
